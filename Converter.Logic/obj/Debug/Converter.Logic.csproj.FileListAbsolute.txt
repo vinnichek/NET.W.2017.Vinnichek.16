@@ -1,0 +1,6 @@
+/Users/vinnichek/Projects/Task16/Converter.Logic/bin/Debug/Converter.Logic.dll.config
+/Users/vinnichek/Projects/Task16/Converter.Logic/bin/Debug/Converter.Logic.dll
+/Users/vinnichek/Projects/Task16/Converter.Logic/bin/Debug/Converter.Logic.pdb
+/Users/vinnichek/Projects/Task16/Converter.Logic/obj/Debug/Converter.Logic.csproj.CoreCompileInputs.cache
+/Users/vinnichek/Projects/Task16/Converter.Logic/obj/Debug/Converter.Logic.dll
+/Users/vinnichek/Projects/Task16/Converter.Logic/obj/Debug/Converter.Logic.pdb

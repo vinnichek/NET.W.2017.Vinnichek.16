@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{BC2D21BD-39D9-4777-8D2F-3C984B7D2D31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Converter.Logic/ILogger.cs">
+    <Files>
+      <File FileName="Converter.Logic/UrlConverter.cs" Line="42" Column="46" />
+      <File FileName="Converter.Logic/ILogger.cs" Line="5" Column="1" />
+      <File FileName="Converter.Logic/ParserForUrl.cs" Line="20" Column="9" />
+      <File FileName="ConsoleApp/Program.cs" Line="10" Column="13" />
+      <File FileName="Converter.Logic/UrlLogger.cs" Line="10" Column="9" />
+      <File FileName="Converter.Logic/App.config" Line="1" Column="1" />
+      <File FileName="Converter.Logic/UrlReader.cs" Line="23" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Converter.Logic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

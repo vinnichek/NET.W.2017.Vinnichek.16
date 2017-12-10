@@ -1,0 +1,9 @@
+/Users/vinnichek/Projects/Task16/ConsoleApp/bin/Debug/ConsoleApp.exe
+/Users/vinnichek/Projects/Task16/ConsoleApp/bin/Debug/ConsoleApp.pdb
+/Users/vinnichek/Projects/Task16/ConsoleApp/bin/Debug/Converter.Logic.dll
+/Users/vinnichek/Projects/Task16/ConsoleApp/bin/Debug/Converter.Logic.pdb
+/Users/vinnichek/Projects/Task16/ConsoleApp/bin/Debug/Converter.Logic.dll.config
+/Users/vinnichek/Projects/Task16/ConsoleApp/obj/Debug/ConsoleApp.csprojResolveAssemblyReference.cache
+/Users/vinnichek/Projects/Task16/ConsoleApp/obj/Debug/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/vinnichek/Projects/Task16/ConsoleApp/obj/Debug/ConsoleApp.exe
+/Users/vinnichek/Projects/Task16/ConsoleApp/obj/Debug/ConsoleApp.pdb

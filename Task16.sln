@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter.Logic", "Converter.Logic\Converter.Logic.csproj", "{DB2E3EF8-DBD4-48E8-AD54-1A885EBA2A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{BC2D21BD-39D9-4777-8D2F-3C984B7D2D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2E3EF8-DBD4-48E8-AD54-1A885EBA2A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2E3EF8-DBD4-48E8-AD54-1A885EBA2A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2E3EF8-DBD4-48E8-AD54-1A885EBA2A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2E3EF8-DBD4-48E8-AD54-1A885EBA2A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2D21BD-39D9-4777-8D2F-3C984B7D2D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2D21BD-39D9-4777-8D2F-3C984B7D2D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2D21BD-39D9-4777-8D2F-3C984B7D2D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2D21BD-39D9-4777-8D2F-3C984B7D2D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
